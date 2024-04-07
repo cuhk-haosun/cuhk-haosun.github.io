@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://cuhk-sunhao.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cuhk-sunhao.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-07T11:06:19+00:00</updated><id>https://cuhk-sunhao.github.io/feed.xml</id><title type="html">Prof. Hao SUN’s Lab in CUHK(SZ)</title><subtitle>The website of prof. Hao Sun in the Chinese University of Hong Kong, Shenzhen
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://cuhk-sunhao.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cuhk-sunhao.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-07T11:11:34+00:00</updated><id>https://cuhk-sunhao.github.io/feed.xml</id><title type="html">Prof. Hao SUN’s Lab in CUHK(SZ)</title><subtitle>The website of prof. Hao Sun in the Chinese University of Hong Kong, Shenzhen
 </subtitle><entry><title type="html">Journal club in 2024/04/03</title><link href="https://cuhk-sunhao.github.io/blog/2024/journal-club/" rel="alternate" type="text/html" title="Journal club in 2024/04/03" /><published>2024-04-03T13:00:00+00:00</published><updated>2024-04-03T13:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2024/journal-club</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2024/journal-club/"><![CDATA[<div class="row mt-3">
     <div class="offset-sm-3 col-sm-6 mt-3 mt-md-0">
         <figure>
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/20240403-journal.club-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/20240403-journal.club-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/20240403-journal.club-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/20240403-journal.club.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
